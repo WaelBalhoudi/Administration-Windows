@@ -18,8 +18,8 @@ This repository contains the practical labs and documentation completed during m
 
 ## Environment
 
-- Windows Server 2022
-- Hyper-V / VMware
+- Windows Server 2022 
+-  VMware / virtualbox
 - Windows 10 Client
 
 ## Skills
